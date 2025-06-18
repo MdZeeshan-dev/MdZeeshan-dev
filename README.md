@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I'm Zeeshan Malik
+
+- 🎓 B.Tech CSE | 2nd Year Student (Tier-3 College)
+- 🔥 Learning Full Stack Development (MERN)
+- 📚 Solving DSA questions daily
+- 🧠 Interested in Open Source, Internships, and Real-world Projects
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/zeeshan-code)
+
+> 🚀 Building my skills one day at a time!## Hi there 👋
 
 <!--
 **MdZeeshan-dev/MdZeeshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
