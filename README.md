@@ -6,7 +6,7 @@
 - 🧠 Interested in Open Source, Internships, and Real-world Projects
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/zeeshan-code)
 
-> 🚀 Building my skills one day at a time!## Hi there 👋
+> 🚀 Building my skills one day at a time!
 
 <!--
 **MdZeeshan-dev/MdZeeshan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
