@@ -17,32 +17,32 @@
 - 🧰 Tools: Git, GitHub, VS Code  
 
 
-### 📚 Current Focus
+ Current Focus
 
-- ✅ Mastering DSA (2 hours/day)
-- ✅ Learning React + Backend (Node/Express)
-- ✅ Creating projects for my portfolio
-- ✅ Building GitHub activity (daily commits)
-- ✅ Preparing for GSoC 2026
+Mastering DSA (2 hours/day)
+   Learning React + Backend (Node/Express)
+   Creating projects for my portfolio
+   Building GitHub activity (daily commits)
+   Preparing for GSoC 2026
 
 
-### 📌 Pinned Projects (soon...)
+ Pinned Projects (soon...)
 
-- 🧠 DSA-Practice – Leetcode & Coding practice
-- 🌐 Personal Portfolio – My developer portfolio
-- 🌦️ Weather App – A simple weather checker using APIs
-- 📚 E-Learning Website – MERN based learning platform (coming soon)
+ DSA-Practice – Leetcode & Coding practice
+   Personal Portfolio – My developer portfolio
+Weather App – A simple weather checker using APIs
+E-Learning Website – MERN based learning platform (coming soon)
 
 ---
 
-### 📫 Let's Connect
+Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-zeeshan-dev)
-- 📧 Email: zeeshan.codev@gmail.com  
-- 📍 Location: Lucknow, India
+  Email: zeeshan.codev@gmail.com  
+  Location: Lucknow, India
 
----
 
-### 💬 Quote I follow
+
+ Quote I follow
 
 > "Consistency is more important than intensity. Build daily, grow daily."
