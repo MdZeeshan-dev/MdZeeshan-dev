@@ -13,7 +13,7 @@
 - 💻 Languages: C, C++, JavaScript, HTML, CSS  
 - 🌐 Frontend: HTML, CSS, Tailwind, React (learning)  
 - ⚙️ Backend: Node.js, Express.js  
-- 🛢️ Database: MongoDB (learning)  
+-  Database: MongoDB (learning)  
 - 🧰 Tools: Git, GitHub, VS Code  
 
 
