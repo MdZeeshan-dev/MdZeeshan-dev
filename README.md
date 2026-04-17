@@ -8,7 +8,7 @@
 📌 GSoC 2026 Aspirant
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - 💻 Languages: C, C++, JavaScript, HTML, CSS  
 - 🌐 Frontend: HTML, CSS, Tailwind, React   
