@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 - 💻 Languages: C, C++, JavaScript, HTML, CSS  
-- 🌐 Frontend: HTML, CSS, Tailwind, React (learning)  
+- 🌐 Frontend: HTML, CSS, Tailwind, React   
 - ⚙️ Backend: Node.js, Express.js  
 -  Database: MongoDB (learning)  
 - 🧰 Tools: Git, GitHub, VS Code  
