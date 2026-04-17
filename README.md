@@ -1,6 +1,6 @@
 #  Hi, I'm Md Zeeshan 
 
-🎓 B.Tech CSE | 2nd Year Student 
+ B.Tech CSE | 2nd Year Student 
 🌱 Currently learning Full Stack Development (MERN)  
 💻 Daily practicing Data Structures and Algorithms (DSA)  
 🛠️ Building real-world projects and contributing to Open Source  
