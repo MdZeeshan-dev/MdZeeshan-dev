@@ -1,48 +1,65 @@
-#  Hi, I'm Md Zeeshan 
+# Md Zeeshan
 
-B.Tech CSE | 2nd Year Student 
-Currently learning Full Stack Development (MERN)  
-Daily practicing Data Structures and Algorithms (DSA)  
-Building real-world projects and contributing to Open Source  
-🔍 Actively looking for internship & open-source opportunities  
-📌 GSoC 2026 Aspirant
+Software Developer focused on building scalable web applications and solving real-world problems through technology.
 
+Currently working with JavaScript, React, Node.js, and modern web development tools while strengthening problem-solving skills through Data Structures and Algorithms.
 
-### Tech Stack
+## Tech Stack
 
-- 💻 Languages: C, C++, JavaScript, HTML, CSS  
-- 🌐 Frontend: HTML, CSS, Tailwind, React   
-- ⚙️ Backend: Node.js, Express.js  
--  Database: MongoDB (learning)  
-- 🧰 Tools: Git, GitHub, VS Code  
+**Languages**
 
+* C
+* C++
+* JavaScript
+* HTML
+* CSS
 
- Current Focus
+**Frontend**
 
-Mastering DSA (2 hours/day)
-   Learning React + Backend (Node/Express)
-   Creating projects for my portfolio
-   Building GitHub activity (daily commits)
-   Preparing for GSoC 2026
+* React.js
+* Tailwind CSS
+* Responsive Web Design
 
+**Backend**
 
- Pinned Projects (soon...)
+* Node.js
+* Express.js
 
- DSA-Practice – Leetcode & Coding practice
-   Personal Portfolio – My developer portfolio
-Weather App – A simple weather checker using APIs
-E-Learning Website – MERN based learning platform (coming soon)
+**Database**
 
----
+* MongoDB
 
-Let's Connect
+**Tools**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-zeeshan-dev)
-  Email: zeeshan.codev@gmail.com  
-  Location: Lucknow, India
+* Git
+* GitHub
+* VS Code
+* Vercel
 
+## Featured Projects
 
+### HireLog
 
- Quote I follow
+A job application tracking platform built with React and Tailwind CSS, featuring application management, status tracking, priority filtering, and a responsive user interface.
 
-> "Consistency is more important than intensity. Build daily, grow daily."
+### TaskFlow Dashboard
+
+A task management dashboard built with HTML, CSS, and JavaScript, featuring task tracking, search, filtering, analytics, and dark mode support.
+
+### Personal Portfolio
+
+A responsive portfolio website showcasing projects, technical skills, certifications, and professional information.
+
+## Interests
+
+* Full Stack Development
+* Software Engineering
+* Web Applications
+* Data Structures and Algorithms
+* Open Source
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/md-zeeshan-dev](http://www.linkedin.com/in/md-zeeshan-dev)
+
+Email: [zeeshan.codev@gmail.com](mailto:zeeshan.codev@gmail.com)
