@@ -12,7 +12,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 * JavaScript
 * HTML.      
 * CSS.   
-
+   
 **Frontend**    
 * React.js
 * Tailwind CSS
