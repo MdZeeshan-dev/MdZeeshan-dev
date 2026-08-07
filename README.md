@@ -10,7 +10,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 * C
 * C++
 * JavaScript
-* HTML
+* HTML. 
 * CSS
 
 **Frontend**
