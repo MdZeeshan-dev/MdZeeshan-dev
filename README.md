@@ -14,7 +14,7 @@ C
 **Frontend**    
 * React.js
 * Tailwind CSS
-* Responsive Web Design
+* Responsive Web Design.  
 
 **Backend**
 * Node.js
