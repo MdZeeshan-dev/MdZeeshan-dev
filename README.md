@@ -7,7 +7,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 ## Tech Stack
 **Languages**
       
-* C
+C
 * C++
 * JavaScript
 * HTML.      
