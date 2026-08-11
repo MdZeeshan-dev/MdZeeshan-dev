@@ -17,7 +17,6 @@ C
 * Responsive Web Design
 
 **Backend**
-
 * Node.js
 * Express.js
 
