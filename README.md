@@ -17,7 +17,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 
 **Database**
 
-* MongoDB
+* MongoDB.   
 
 **Tools**
 
