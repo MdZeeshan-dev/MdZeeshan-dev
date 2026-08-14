@@ -38,7 +38,7 @@ A job application tracking platform built with React and Tailwind CSS, featuring
 A task management dashboard built with HTML, CSS, and JavaScript, featuring task tracking, search, filtering, analytics, and dark mode support.       
 
 ### Personal Portfolio
-
+     
 A responsive portfolio website showcasing projects, technical skills, certifications, and professional information.
 
 ## Interests
