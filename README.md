@@ -34,7 +34,7 @@ A job application tracking platform built with React and Tailwind CSS, featuring
 
 ### TaskFlow Dashboard
 
-A task management dashboard built with HTML, CSS, and JavaScript, featuring task tracking, search, filtering, analytics, and dark mode support.
+A task management dashboard built with HTML, CSS, and JavaScript, featuring task tracking, search, filtering, analytics, and dark mode support.       
 
 ### Personal Portfolio
 
