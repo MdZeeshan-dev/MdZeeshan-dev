@@ -5,7 +5,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 **Languages**
 * C++
 * JavaScript. 
-* HTML.   
+* HTML.                   
 * CSS.          
 **Frontend**           
 * React.js
