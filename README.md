@@ -10,7 +10,7 @@ Currently working with JavaScript, React, Node.js, and modern web development to
 **Frontend**
 * React.js
 * Tailwind CSS
-* Responsive Web Design.
+* Responsive Web Design.          
 **Backend**
 * Node.js
 * Express.js
