@@ -3,7 +3,7 @@ Software Developer focused on building scalable web applications and solving rea
 Currently working with JavaScript, React, Node.js, and modern web development tools while strengthening problem-solving skills through Data Structures and Algorithms.
 ## Tech Stack
 **Languages**
-* C++
+* C++     
 * JavaScript.     
 * HTML.                   
 * CSS.          
