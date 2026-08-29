@@ -41,7 +41,7 @@ A task management dashboard built with HTML, CSS, and JavaScript, featuring task
 A responsive portfolio website showcasing projects, technical skills, certifications, and professional information.
 
 ## Interests
-
+      
 * Full Stack Development
 * Software Engineering
 * Web Applications
