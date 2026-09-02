@@ -1,52 +1,12 @@
-Md Zeeshan. 
-Software Developer focused on building scalable web applications and solving real-world problems through technology.
-Currently working with JavaScript, React, Node.js,   and modern web development tools while strengthening problem-solving skills through Data Structures and Algorithms.                                              
-## Tech Stack                                      
-**Languages**                                                   
-* C++               
-* JavaScript.                                  
-* HTML.                           
-* CSS.                                                      
-**Frontend**                
-* React.js
-* Tailwind CSS      
-* Responsive Web Design.          
-**Backend**       
-* Node.js
-* Express.js
+Zeeshan
 
-**Database**
+Software Engineer | Frontend Developer
 
-* MongoDB.   
-   
-**Tools**
+Focused on building reliable, scalable, and user-centric web applications. I work primarily with JavaScript, TypeScript, and React, while continuously strengthening my skills in Data Structures & Algorithms, backend development, and software engineering.
 
-* Git
-* GitHub
-* VS Code
-* Vercel
+I enjoy turning ideas into clean, maintainable software and solving real-world problems through thoughtful engineering.
 
-## Featured Projects
-
-### HireLog
-
-A job application tracking platform built with React and Tailwind CSS, featuring application management, status tracking, priority filtering, and a responsive user interface.
-
-### TaskFlow Dashboard
-
-A task management dashboard built with HTML, CSS, and JavaScript, featuring task tracking, search, filtering, analytics, and dark mode support.       
-
-### Personal Portfolio
-     
-A responsive portfolio website showcasing projects, technical skills, certifications, and professional information.
-
-## Interests
-      
-* Full Stack Development
-* Software Engineering
-* Web Applications
-* Data Structures and Algorithms
-* Open Source
+Currently focused on building production-quality projects and growing into a well-rounded Software Engineer.
 
 ## Contact
 
