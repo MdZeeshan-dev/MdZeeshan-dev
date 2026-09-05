@@ -1,5 +1,5 @@
 Zeeshan
-
+    
 Software Engineer | Frontend Developer
 
 Focused on building reliable, scalable, and user-centric web applications. I work primarily with JavaScript, TypeScript, and React, while continuously strengthening my skills in Data Structures & Algorithms, backend development, and software engineering.
